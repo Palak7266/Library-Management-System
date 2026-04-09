@@ -1,0 +1,99 @@
+102|Data Structures|Mark Allen|0
+103|Algorithms Made Easy|Narasimha Karumanchi|0
+104|Operating System Concepts|Galvin|0
+105|Computer Networks|Andrew Tanenbaum|0
+106|DBMS Concepts|Korth|0
+107|Java Programming|James Gosling|0
+108|Python Crash Course|Eric Matthes|0
+109|Machine Learning|Tom Mitchell|0
+110|Artificial Intelligence|Stuart Russell|0
+111|Deep Learning|Ian Goodfellow|0
+112|Clean Code|Robert Martin|0
+113|Design Patterns|Erich Gamma|0
+114|Software Engineering|Pressman|0
+115|Web Development|Jon Duckett|0
+116|HTML & CSS|Jon Duckett|0
+117|JavaScript Guide|Douglas Crockford|0
+118|React Basics|Jordan Walke|0
+119|Node.js Guide|Ryan Dahl|0
+120|Django for Beginners|William Vincent|0
+121|Flask Web Dev|Miguel Grinberg|0
+122|Cyber Security|Charles Brooks|0
+123|Ethical Hacking|Kevin Mitnick|0
+124|Cloud Computing|Rajkumar Buyya|0
+125|Big Data|Viktor Mayer|0
+126|Blockchain Basics|Daniel Drescher|0
+127|DevOps Handbook|Gene Kim|0
+128|Agile Development|Ken Schwaber|0
+129|Scrum Guide|Jeff Sutherland|0
+130|Kotlin Programming|JetBrains|0
+131|Swift Programming|Apple Inc|0
+132|C Programming|Dennis Ritchie|0
+133|C# Programming|Microsoft|0
+134|Go Programming|Rob Pike|0
+135|Rust Programming|Steve Klabnik|0
+136|Assembly Language|Kip Irvine|0
+137|Computer Architecture|Hennessy|0
+138|Compiler Design|Aho Ullman|0
+139|Theory of Computation|Sipser|0
+140|Discrete Mathematics|Rosen|0
+141|Linear Algebra|Gilbert Strang|0
+142|Calculus|James Stewart|0
+143|Probability|Sheldon Ross|0
+144|Statistics|Freedman|0
+145|Numerical Methods|Burden|0
+146|Game Development|Unity Tech|0
+147|Graphics Programming|Foley|0
+148|UI UX Design|Don Norman|0
+149|Human Computer Interaction|Alan Dix|0
+150|Mobile App Dev|Google|0
+151|Android Dev|Google|0
+152|iOS Dev|Apple|0
+153|Embedded Systems|Mazidi|0
+154|Microprocessors|Gaonkar|0
+155|IoT Basics|Arshdeep Bahga|0
+156|Robotics|John Craig|0
+157|Computer Vision|Richard Szeliski|0
+158|NLP Basics|Jurafsky|0
+159|Speech Processing|Rabiner|0
+160|Data Mining|Han Kamber|0
+161|Data Science|Joel Grus|0
+162|Excel Basics|Microsoft|0
+163|Power BI|Microsoft|0
+164|Tableau Guide|Tableau|0
+165|Digital Marketing|Philip Kotler|0
+166|SEO Guide|Moz|0
+167|Content Marketing|Joe Pulizzi|0
+168|Business Analytics|James Evans|0
+169|Project Management|PMI|0
+170|Leadership Skills|Dale Carnegie|0
+171|Time Management|Brian Tracy|0
+172|Communication Skills|Dale Carnegie|0
+173|Soft Skills|Klaus|0
+174|Entrepreneurship|Steve Blank|0
+175|Startup Guide|Eric Ries|0
+176|Lean Startup|Eric Ries|0
+177|Finance Basics|Robert Kiyosaki|0
+178|Accounting|Weygandt|0
+179|Economics|Paul Samuelson|0
+180|Marketing|Kotler Keller|0
+181|Sales Strategy|Zig Ziglar|0
+182|Negotiation Skills|Fisher Ury|0
+183|Public Speaking|Carnegie|0
+184|Psychology|David Myers|0
+185|Sociology|Giddens|0
+186|Philosophy|Plato|0
+187|History|Howard Zinn|0
+188|Geography|Strahler|0
+189|Political Science|Andrew Heywood|0
+190|Law Basics|H.L.A Hart|0
+191|Environmental Science|Miller|0
+192|Biology|Campbell|0
+193|Chemistry|Paula Bruice|0
+194|Physics|Halliday Resnick|0
+195|Astronomy|Carl Sagan|0
+196|Space Science|NASA|0
+197|Genetics|Griffiths|0
+198|Biotechnology|Watson|0
+199|Medical Science|Gray|0
+200|Pharmacology|Rang Dale|1
